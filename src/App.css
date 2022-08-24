@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lobster&display=swap');
+
+
+.App {
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+
+   
+}
+.book{
+  color: white;
+}
+.quote {
+    /* background: url(./assets/bg.jpg); */
+    background-color: rgb(248, 29, 77);
+    background-size: cover;
+    width: 450px;
+    height: 150px;
+    border-radius: 10px;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.quote h2 {
+    font-size: 1.6em;
+    font-family: 'Lobster', cursive;
+}
+.quote small {
+    font-size: 1em;
+    font-family: 'Dancing Script', cursive;
+}
+.fa-solid{
+  background-color: #060e11;
+}
+.btn {
+	display: block;
+	border: 2px solid #060e11;
+	background: transparent;
+	padding: 10px 15px;
+	color: #e9f3f7;
+	font-size: 15px;
+	border-radius: 5px;
+	cursor: pointer;
+	outline: none;
+	transition: background 1s, color 1s;
+}
+.span{
+  color: blueviolet;
+}
+.btn:hover{
+	background: #008CBA;
+	color: #fff;
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+#dropdown-basic-button{
+  border-radius: 25px;
+  width: 150px;
+  text-decoration: none;
+  font-size: large;
+}
+.drop{
+  margin-left: 200px;
+  background-color: rgb(242, 239, 245);
+  text-decoration: none;
+  font-size: large;
+}
+

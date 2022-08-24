@@ -1,0 +1,20 @@
+// import Row from "./components/Row"
+
+// wht is api ?
+
+// install axios - npm i axios
+
+// src > api
+
+// objects using curly brackets - it is a key value pair == {key:value}
+
+
+
+// display:flex; ,= most using  - display felx means the divs in aligned column 1(row1),2(row1)... then its changed to aligned in one Row
+
+// display:flex;
+// flex-direction:column; for alignment in thazhathott 1(col1),2(col2)....
+
+// overflow y axis il scroll bar hidden overflow-y:hidden;overflow-x:scroll;
+
+// hover highlighting the pic when mouse here
